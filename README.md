@@ -1,2 +1,2 @@
 "# BeautifulUi" 
-![](ss/1.png)
+<img src="ss/1.png" width="200">
